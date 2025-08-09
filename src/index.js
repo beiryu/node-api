@@ -17,7 +17,7 @@ app.get('/health', (req, res) => {
 
 app.get('/', (req, res) => {
   res.json({
-    message: 'Hello from Node.js API!'
+    message: 'Hello from Node.js API!!'
   });
 });
 
